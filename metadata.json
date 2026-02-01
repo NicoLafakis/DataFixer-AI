@@ -1,0 +1,5 @@
+{
+  "name": "DataFixer AI",
+  "description": "A high-performance data enrichment tool that uses Gemini AI to automatically fill in missing information in CSV files based on domain names and company records.",
+  "requestFramePermissions": []
+}
